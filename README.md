@@ -1,4 +1,4 @@
-# ai-first-workflow
+# ai-workflow
 
 A practical, tool-agnostic template for running software delivery with coding agents
 (Claude Code, Codex, Cursor, Cline — whichever you use) without turning the codebase into a slot machine.
